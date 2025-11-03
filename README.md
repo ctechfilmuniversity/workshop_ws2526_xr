@@ -24,7 +24,7 @@ In this course we will look into XR technologies and the real-time engines that 
 <br/><br/>
 **Reading List**
 
-//For those who are interested, here is a list of readings/examples etc. that will be added to over time: https://www.are.na/alex-walmsley/virtuality-gczseswa4x8
+
 
 <br/><br/>
 **Topics**
@@ -55,6 +55,8 @@ Topics in VR/AR
 - Case Studies working with Hybrid Forms of AR/VR
 - Overview of VR/AR design challenges 
 - Your Projects (Outline, Requirements, First Ideas)
+
+Unity Game Engine and XR
 
 - Unity Project Setup for AR / VR
 - Interaction Examples in AR / VR
