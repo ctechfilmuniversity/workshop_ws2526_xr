@@ -3,16 +3,16 @@
 <br/><br/>
 **Syllabus**
 
-In this course we will begin to look into XR technologies and the game engines that underpin them. Students will gain an overview of these technologies, their history and use in the creative disciplines, as well as be introduced to theoretical concepts surrounding the notion of the “virtual”. We will consider in detail some design criteria for VR and AR, as well as appropriate technologies and workflows, through looking at and critique of case studies from the fields of art, games, immersive experiences and apps. On the technical side, students will gain hands-on experience with a game engine (Unity) and be asked to create a VR or AR prototype in response to a given theme/topic.
+In this course we will look into XR technologies and the real-time engines that underpin them, as well as be introduced to theoretical concepts surrounding the notion of “hypermediacy” and hybrid storytelling. Students will gain an overview of these technologies, their history and use in the creative disciplines. We will consider in detail some design criteria for VR and AR, as well as appropriate technologies and workflows, through looking at examples from the fields of art, games, immersive experiences and apps. On the technical side, students will gain hands-on experience with a game engine (Unity) and be asked to create a VR or AR prototype in response to a given theme/topic.
 
 <br/><br/>
 **Learning Objectives**
 
-Become acquainted with some of the theoretical debates that guide our understanding of the real and the virtual
-Understand how game engines are structured and how they interface with other hardware and software
-Understand and be able to implement a basic architecture for real-time experiences in Unity, particularly in the area of XR
-Be able to recognise design criteria specific to XR and develop your own specific to an experience you may want to build
-Design and develop your own XR prototype experience
+- Gain an understanding of the cultural, historical, and political context for the development of real-time technologies, particularly in the area of XR
+- Understand how real-time engines are structured and how they interface with other hardware and software
+- Understand and be able to implement a basic architecture for real-time experiences in Unity, particularly in the area of XR
+- Be able to recognise design criteria specific to XR and develop your own specific to an experience you may want to build
+- Design and develop your own XR prototype experience
 
 <br/><br/>
 **Method of Instruction**
@@ -24,62 +24,70 @@ Design and develop your own XR prototype experience
 <br/><br/>
 **Reading List**
 
-For those who are interested, here is a list of readings/examples etc. that will be added to over time: https://www.are.na/alex-walmsley/virtuality-gczseswa4x8
+//For those who are interested, here is a list of readings/examples etc. that will be added to over time: https://www.are.na/alex-walmsley/virtuality-gczseswa4x8
 
 <br/><br/>
 **Topics**
 
-Course preparation: Install latest version of Unity and necessary supporting software
+Course preparation: Install latest version of Unity (6000.2.x) and necessary supporting software (Android Build Module)
 
 <br/><br/>
-*Day 1 (15.10)*
+*Day 1 (7.11.)*
 
-The Virtual and the Real
+Extended Realities
 
-- Outline of a theoretical basis for understanding the concepts of the “real” and the “virtual” through the lens of media theory and philosophy of technology
+- theoretical introduction: interactive/hybrid narration, hypermediacy and Immersion
 - A brief history of XR and immersive technologies
-- Everything you need to know about game engines (+ maybe more)
-- General XR production pipeline
+- Real Time Technologies and their field of use + Examples
 
 Game Engines - For beginners with little or no game engine experience
 
-- Installing Unity if you have not already
-- Interface tour of Unity and overview of the important components - asset creation and import, setting up a scene, script creation, engine settings, plugins and packaging
-- Introduction to further functions - animation, sound, lighting, triggers, optimisation tools
-- Installing necessary software for VR/AR development
+- Unity Installation
+- Unity Game Engine Introduction Interface
+- Unity functionalities (Project Structure, Scene Setup, Assets, Materials, Scripts, External Tools, Debugging, Interactivity, Audio, Video, 3DText)
 
 <br/><br/>
-*Day 2 (16.10)*
+*Day 2 (10.11.)*
 
 Topics in VR/AR
 
-- Overview of VR/AR design criteria - what are the important criteria to keep in mind when designing for VR? How do design criteria change with audience? How does VR challenge design criteria for other media?
-- Outline a technical workflow for the creation of VR experiences
+- The Audience and Video Game Spaces
+- Case Studies working with Hybrid Forms of AR/VR
+- Overview of VR/AR design challenges 
+- Your Projects (Outline, Requirements, First Ideas)
+
+- Unity Project Setup for AR / VR
+- Interaction Examples in AR / VR
+- Further Introduction to Unity Game Engine (UI basics, Post Processing, Collision/trigger, Animator)
 
 <br/><br/>
-*Day 3 (17.10)*
+*Day 3 (17.11.)*
 
 Project/Prototype first steps
 
+- Mini-Pitch of your Project Idea
 - Get setup for VR/AR development (VR goggles working; AR workflow setup)
-- Design/Storyboard/Wireframe VR or AR experience
-- Develop a VR or AR Prototype using Unity Game Engine (prompt will be given). Prototypes must fulfill a number of criteria in terms of content and interactions (to be defined).
+- Get back to Interaction Examples in AR /VR
+
+
+- Design/Storyboard/Wireframe VR / AR experience
+- Develop a VR or AR Prototype using Unity Game Engine. Prototypes must fulfill a number of criteria in terms of content and interactions (to be defined).
 
 <br/><br/>
-*Day 4 (21.11)*
+*Day 4 (28.11.)*
 
 Project Clinic
 
-We will meet here for a morning to cover any special topics/answer any specific questions you might have (if you would like to cover a specific Unity- or XR-themed topic, let me know a few weeks in advance and I can prepare something)
+We will meet for a morning to cover any special topics, to answer any specific questions concerning technical and dramaturgical aspecs of your projects. (if you would like to cover a specific Unity- or XR-themed topic, let me know until the 24th of November, so I can prepare something)
 
 <br/><br/>
-*Day 5 (21.01)*
+*Day 5 (15.12.)*
 
 Project work
 
-We will meet one final time before you have to hand in your final projects at the beginning of February. This session is for further questions/collaborative work/polishing of prototypes.
+We will meet one final time before you have to hand in your final projects at the end of December. This session is for further questions/collaborative work/polishing of prototypes.
 
 <br/><br/>
 **Evaluation**
 
-Evaluation will be based on the personal projects. These projects must be submitted both as an .apk (Oculus Quest, Android)/.exe (Oculus Rift, HTC Vive)/.ipa (iPhone/iPad) and as video walkthrough/demo.
+Evaluation will be based on the personal projects. These projects must be submitted both as an .apk (Oculus Quest, Android)/.exe (Oculus Rift, HTC Vive)/.ipa (iPhone/iPad) and as video walkthrough/demo. The submittion also needs to contain a short description, the storyboard/wireframe and some Screenshots.
