@@ -3,7 +3,7 @@
 <br/><br/>
 **Syllabus**
 
-In this course we will look into XR technologies and the real-time engines that underpin them, as well as be introduced to theoretical concepts surrounding the notion of “hypermediacy” and hybrid storytelling. Students will gain an overview of these technologies, their history and use in the creative disciplines. We will consider in detail some design criteria for VR and AR, as well as appropriate technologies and workflows, through looking at examples from the fields of art, games, immersive experiences and apps. On the technical side, students will gain hands-on experience with a game engine (Unity) and be asked to create a VR or AR prototype in response to a given theme/topic.
+In this course we will look into XR technologies and the real-time engines that underpin them, as well as be introduced to theoretical concepts surrounding the notion of “immediacy” and hybrid storytelling. Students will gain an overview of these technologies, their history and use in the creative disciplines. We will consider in detail some design criteria for VR and AR, as well as appropriate technologies and workflows, through looking at examples from the fields of art, games, immersive experiences and apps. On the technical side, students will gain hands-on experience with a game engine (Unity) and be asked to create a VR or AR prototype in response to a given theme/topic.
 
 <br/><br/>
 **Learning Objectives**
@@ -36,7 +36,7 @@ Course preparation: Install latest version of Unity (6000.2.x) and necessary sup
 
 Extended Realities
 
-- theoretical introduction: interactive/hybrid narration, hypermediacy and Immersion
+- theoretical introduction: interactive/hybrid narration, immediacy and hypermediacy in art and technology
 - A brief history of XR and immersive technologies
 - Real Time Technologies and their field of use + Examples
 
