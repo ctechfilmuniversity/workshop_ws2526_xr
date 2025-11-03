@@ -71,7 +71,6 @@ Project/Prototype first steps
 - Get setup for VR/AR development (VR goggles working; AR workflow setup)
 - Get back to Interaction Examples in AR /VR
 
-
 - Design/Storyboard/Wireframe VR / AR experience
 - Develop a VR or AR Prototype using Unity Game Engine. Prototypes must fulfill a number of criteria in terms of content and interactions (to be defined).
 
