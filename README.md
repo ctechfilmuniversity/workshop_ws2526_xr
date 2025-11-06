@@ -25,6 +25,7 @@ In this course we will look into XR technologies and the real-time engines that 
 **Reading List**
 
 Bolter, Jay David; Grusin, Richard: Remediation - Understanding New Media, MIT Press, 1999.
+
 Nitsche, Michael: Video Game Spaces: Image, Play and Structure in 3D worlds, MIT Press, 2008.
 
 _(I will refer to concepts from these works, no need to read the whole book)._
