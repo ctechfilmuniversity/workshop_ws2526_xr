@@ -56,16 +56,17 @@ Game Engines - For beginners with little or no game engine experience
 
 Topics in VR/AR
 
-- The Audience and Video Game Spaces
+- Video Game Spaces
 - Case Studies working with Hybrid Forms of AR/VR
 - Overview of VR/AR design challenges 
 - Your Projects (Outline, Requirements, First Ideas)
 
 Unity Game Engine and XR
 
+- Further Introduction to Unity Game Engine (UI basics, Post Processing, Collision/trigger, Animator)
 - Unity Project Setup for AR / VR
 - Interaction Examples in AR / VR
-- Further Introduction to Unity Game Engine (UI basics, Post Processing, Collision/trigger, Animator)
+  
 
 <br/><br/>
 *Day 3 (17.11.)*
