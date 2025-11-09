@@ -65,7 +65,6 @@ Unity Game Engine and XR
 
 - Further Introduction to Unity Game Engine (UI basics, Post Processing, Collision/trigger, Animator)
 - Unity Project Setup for AR / VR
-- Interaction Examples in AR / VR
   
 
 <br/><br/>
@@ -74,8 +73,8 @@ Unity Game Engine and XR
 Project/Prototype first steps
 
 - Mini-Pitch of your Project Idea
-- Get setup for VR/AR development (VR goggles working; AR workflow setup)
-- Get back to Interaction Examples in AR /VR
+- Setup for VR/AR development (VR goggles working; AR workflow setup)
+- Interaction Examples in AR /VR
 
 - Design/Storyboard/Wireframe VR / AR experience
 - Develop a VR or AR Prototype using Unity Game Engine. Prototypes must fulfill a number of criteria in terms of content and interactions (to be defined).
