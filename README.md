@@ -37,7 +37,7 @@ _(I will refer to concepts from these works, no need to read the whole book)._
 Course preparation: Install latest version of Unity (6000.2.x) and necessary supporting software (Android Build Module)
 
 Sign Up for your group and desired Devices here: https://docs.google.com/spreadsheets/d/1mQ0ldFMZv710A0YXMbdVr5j8F4026U7EFaoshbSljE4/edit?usp=sharing
-
+Please contact Alex Walmsley to get your devices in KW 46 (11.-14.11.)
 
 <br/><br/>
 *Day 1 (7.11.)*
