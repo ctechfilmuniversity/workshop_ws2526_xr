@@ -1,8 +1,8 @@
-\*\*Submission of work\*\*
+**Submission of work**
 
 
 
-Please upload the following to your projects folder:
+Please create a folder for your project with the naming convention: "title_nameStudent1_nameStudent2" and upload the following to your projects folder:
 
 
 
@@ -10,3 +10,4 @@ Please upload the following to your projects folder:
 2. Screenshots of the projects
 3. a video / screenrecording runthrough of your project, showing the main content and interactions
 4. the build (.apk) 
+
