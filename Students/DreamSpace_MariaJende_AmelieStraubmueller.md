@@ -7,7 +7,7 @@
 
 **Description**  
 
-With our XR project *DreamSpace* we created a VR experience (for Meta Quest 3) in Unity. It is supposed to experiment with the behaviour and visuality of environments in dreams as well as dream clichés like falling out tooths and falling/jumping off somewhere before waking up. We walked away from real world logic and look to random actions, obejctions and settings in form of a mini escape game. Visually we focused on a blurred look through bloom and white burning which sets the mood for a not real world experience. The user is supposed to walk in real world space to move around in the virtual space withouth using the controller, only using the hands to improve immersion/immediacy.
+With our XR project *DreamSpace* we created a VR experience (for Meta Quest 3) in Unity. It is supposed to experiment with the behaviour and visuality of environments in dreams as well as dream clichés like falling out tooths and falling/jumping off somewhere before waking up. We walked away from real world logic and look to random actions, obejctions and settings in form of a mini escape game which ends with activating passthrough to mimic waking up (sadly not visible in the recording). Visually we focused on a blurred look through bloom and white burning which sets the mood for a not real world experience. The user is supposed to walk in real world space to move around in the virtual space withouth using the controller, only using the hands to improve immersion/immediacy.
 
 **You can access screenshots, a video of a walkthrough through the experience and the .apk for the meta quest under this link:**  
 
