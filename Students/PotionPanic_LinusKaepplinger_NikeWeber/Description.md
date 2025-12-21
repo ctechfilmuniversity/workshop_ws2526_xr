@@ -3,7 +3,7 @@
 
 
 ### Links
-- **APK File:**  [Download APK (Google Drive)](https://drive.google.com/drive/folders/1xj7_VVQ-KoY8Z6pDdaG2VWSu4Z7LELrJ?usp=sharing)
+- **APK File:**  [Download APK (Google Drive)](Link)
 
 
 ##  About the Project
@@ -32,4 +32,4 @@
 - [Pixabay](https://pixabay.com/sound-effects)
 Everything on Pixabay is royalty free and can be published without having to attribute the author, therefore we didnt save the links. 
 
-- [CrowSounds] (https://www.jobwork.com/@linus-kaepplinger)
+- [CrowSounds](https://www.jobwork.com/@linus-kaepplinger)
