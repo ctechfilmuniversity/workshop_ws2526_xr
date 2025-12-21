@@ -13,6 +13,8 @@ Through environmental interaction and problem-solving, the player gathers ingred
 The game concludes with a subtle narrative twist, revealing that the escape is not what it initially seems. 
 The project focuses on atmospheric world-building and magical elements, using a reduced visual aesthetic while balancing exploration with puzzle-based challenges.
 
+![RoomOverview](Screenshots/PotionPanic_Screenshot_07.jpg)
+
 ## Used Software
 - Unity with UnityXR
 - Meta Quest 3 and 2
@@ -37,3 +39,5 @@ While there is still room for more performance tweaking the game runs native on 
 Everything on Pixabay is royalty free and can be published without having to attribute the author, therefore we didnt save the links. 
 
 - [CrowSounds](https://www.jobwork.com/@linus-kaepplinger)
+
+![RoomOverview02](Screenshots/PotionPanic_Screenshot_01.jpg)
